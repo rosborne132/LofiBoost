@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>LofiBoost - AU.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>2</integer>
+		</dict>
+		<key>LofiBoost - All.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+		<key>LofiBoost - Shared Code.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>4</integer>
+		</dict>
+		<key>LofiBoost - Standalone Plugin.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>3</integer>
+		</dict>
+		<key>LofiBoost - VST.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>15C4CF96169013FF6B60DBC3</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>623E7BF2D9AC6598A15D940B</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>7C87FE0FE495E09AAF1B4616</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>8D7CAF1464725B97F28DA577</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>CAB7359150BF0D4AA29EE31E</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
